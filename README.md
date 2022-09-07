@@ -13,7 +13,7 @@ I will define a code in the file "movies_app.py". Once you run  "streamlit run m
   Save the housinmg_streamlit.py and housing-deployment-reg.csv file in a folder.
   Open a new terminal and run the following:
   
-  "streamlit run "housinmg_streamlit.py"
+     "streamlit run "housinmg_streamlit.py"
   
 This will pop-up a new window which will give a list of the houses based on the number of rooms, car garages and the sale price. You can see all the houses are listed on cheap from top.
 
